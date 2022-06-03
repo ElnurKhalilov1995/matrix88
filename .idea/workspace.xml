@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be0f273d-ffb1-4815-9268-c7cd0aef58e8" name="Default Changelist" comment="">
+    <list default="true" id="be0f273d-ffb1-4815-9268-c7cd0aef58e8" name="Default Changelist" comment="added index.html file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,11 +58,34 @@
       <updated>1654011462336</updated>
       <workItem from="1654011464391" duration="173000" />
       <workItem from="1654012329631" duration="8000" />
-      <workItem from="1654260600450" duration="1179000" />
+      <workItem from="1654260600450" duration="1825000" />
     </task>
+    <task id="LOCAL-00001" summary="added index.html file">
+      <created>1654262214113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654262214114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added index.html file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added index.html file" />
   </component>
 </project>
