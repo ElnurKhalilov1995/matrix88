@@ -4,6 +4,6 @@
     <head>
     </head>
     <body>
-        <h1>I am Orkhan Kishiyev</h1>
+        <h1 style ="color: yellow;">I am Orkhan Kishiyev</h1>
     </body>
 </html> 
